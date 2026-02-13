@@ -6,7 +6,7 @@
   export default defineConfig({
     // If you will publish to https://<username>.github.io/<repo>/,
     // set `base` to '/<repo>/' (replace <repo> with your repository name).
-    base: '/spaziovuoto/',
+    base: '/Per-Chry/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
